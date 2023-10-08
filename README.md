@@ -6,16 +6,16 @@ A place to show my portfolio projects, past work, growth, and more!
 A MERN stack I worked on during summer and fall of 2023. The purpose of this web app is to showcase the market price and popularity/rating of items available in the market so users can see which ones are best/worst rated and have the best/worst pricing. All the items are arranged in descending order in popularity and ascending order in price/name. So, the highest rated, least expensive items appear first and the lowest rated, most expensive items appear last. Users can add items using the form visible upon logging in. Users can use the search bar to search items only by name (i.e. doesn't filter based on price, user, just name of item). Users can use the blue star button to add a star to the rating, and the yellow - button to remove a star from the rating. Ratings can only exist between 0 and 10. Reset password also doesn't let me enter anything into the confirm password TextArea, so no reset password functionality for now. The search was done (in main branch) by using a boolean state, a query state, and a Formik submit handler that would update the query state to what the user entered and a boolean state that would turn true if the query state wasn't an empty string. Users must login/register to use the app. Login was implemented using sessionStorage and an authContext. To run the app, one must run the react app in the root directory item-catalog, and to run the backend server, one must run start the server in the directory aptly titled server. 
 
 ![Screenshot 2023-10-08 001623](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/f668ad8f-d2fb-401a-9648-58fb9d5d7f23)
-##Login Screen##
+Login Screen
 
 ![Screenshot 2023-10-08 001800](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/7eefbddb-dab6-4de2-9828-5b2038081761)
-##[Dashboard with name of logged in user]
+Dashboard with name of logged in user
 
 ![Screenshot 2023-10-07 235735](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/7b8a9ee7-95bb-486a-9698-271f18a26f21)
-##[Items added to the db with the name of the user who posted the item]
+Items added to the db with the name of the user who posted the item
 
 ![Screenshot 2023-10-08 005653](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/123da71c-30e9-430f-bb63-16bddc93cd46)
-##[Click show desc button to see desc of item]
+Click show desc button to see desc of item
 
 
 
