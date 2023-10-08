@@ -9,13 +9,13 @@ A MERN stack I worked on during summer and fall of 2023. The purpose of this web
 ##Login Screen##
 
 ![Screenshot 2023-10-08 001800](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/7eefbddb-dab6-4de2-9828-5b2038081761)
-##Dashboard with name of logged in user##
+##[Dashboard with name of logged in user]
 
 ![Screenshot 2023-10-07 235735](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/7b8a9ee7-95bb-486a-9698-271f18a26f21)
-##Items added to the db with the name of the user who posted the item##
+##[Items added to the db with the name of the user who posted the item]
 
 ![Screenshot 2023-10-08 005653](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/123da71c-30e9-430f-bb63-16bddc93cd46)
-##Click show desc button to see desc of item##
+##[Click show desc button to see desc of item]
 
 
 
