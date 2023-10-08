@@ -14,7 +14,7 @@ Dashboard with name of logged in user
 ![Screenshot 2023-10-07 235735](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/7b8a9ee7-95bb-486a-9698-271f18a26f21)
 Items added to the db with the name of the user who posted the item
 
-![Screenshot 2023-10-07 235735](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/566cc7e9-a851-4b44-800d-95ddb72bb449)
+![Screenshot 2023-10-08 005653](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/123da71c-30e9-430f-bb63-16bddc93cd46)
 Click show desc button to see desc of item
 
 
