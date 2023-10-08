@@ -7,3 +7,5 @@ A MERN stack I worked on during summer and fall of 2023. The purpose of this web
 
 In my searchParamsQuery branch, the state for holding the search query appears as a query parameter, q, in the URL. Also, the filtering of the items occurs instantly due to removing the formik submit handling. I got this idea from Web Dev Simplified. A link to the video in question. Please note that searchParamsQuery is a few commits behind main.
 https://www.youtube.com/watch?v=oZZEI23Ri6E&t=257s
+![Screenshot 2023-10-07 235124](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/c106a330-0eb7-4699-83b9-fb9d5059a855)
+![Screenshot 2023-10-07 235259](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/5b7a7c85-6087-4cde-a762-2cb33575b444)
