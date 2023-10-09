@@ -21,7 +21,11 @@ Click show desc button to see desc of item
 
 I am adding 2 search bars. One for item and one for the poster of the item. If only item is searched, items will be filtered by item name alone. If only poster is searched, items will be filtered by the poster alone (i.e. all items posted by praorapper will appear if query is praorapper). If both are searched, items with substring searched posted by poster searched will appear (i.e. all items with "wooden" posted by praorapper will appear).
 
+![Screenshot 2023-10-08 222945](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/45c07c04-d0b2-4b6c-8b17-4bdb30663902)
+All items posted by johnsmith100 appear
 
+![Screenshot 2023-10-08 222914](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/2cd9e8c8-71b1-4b01-bc79-6d0cd075e1a6)
+All items that have "Wooden" in the name posted by johnsmith100 appear
 
 In my searchParamsQuery branch, the state for holding the search query appears as a query parameter, q, in the URL. Also, the filtering of the items occurs instantly due to removing the formik submit handling. I got this idea from Web Dev Simplified. [Click here to see the video](https://www.youtube.com/watch?v=oZZEI23Ri6E&t=257s). Please note that searchParamsQuery is a few commits behind main, hence why the name of the item poster isn't present in the screenshots.
 
