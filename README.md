@@ -18,6 +18,7 @@ Items added to the db with the name of the user who posted the item
 Click show desc button to see desc of item
 
 **UPDATE as of 10/8/2023**
+
 I am adding 2 search bars. One for item and one for the poster of the item. If only item is searched, items will be filtered by item name alone. If only poster is searched, items will be filtered by the poster alone (i.e. all items posted by praorapper will appear if query is praorapper). If both are searched, items with substring searched posted by poster searched will appear (i.e. all items with "wooden" posted by praorapper will appear).
 
 
