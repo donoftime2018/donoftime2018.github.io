@@ -29,7 +29,7 @@ All items that have "Wooden" in the name posted by johnsmith100 appear
 
 **UPDATE as of 10/17/2023**
 
-I added a Profile and Login/Registration System. Also, made some UI/UX changes based on a fellow Software Developer's input. On the profile, the logged in user can look at the 5 most recently liked and posted items. Also, add items form on Dashboard can be closed/opened. Moreover, a navbar is available so a user can visit their profile or logout if they please. The navbar remains in the same place on the page. A user cannot like an item more than once. Moreover, the user who posted an item cannot like that same item. 
+Made some UI/UX changes based on a fellow Software Developer's input. On the profile, the logged in user can look at the 5 most recently liked and posted items. Also, add items form on Dashboard can be closed/opened. Moreover, a navbar is available so a user can visit their profile or logout if they please. The navbar remains in the same place on the page. A user cannot like an item more than once. Moreover, the user who posted an item cannot like that same item. 
 
 In my searchParamsQuery branch, the state for holding the search query appears as a query parameter, q, in the URL. Also, the filtering of the items occurs instantly due to removing the formik submit handling. I got this idea from Web Dev Simplified. [Click here to see the video](https://www.youtube.com/watch?v=oZZEI23Ri6E&t=257s). Please note that searchParamsQuery is a few commits behind main, hence why the name of the item poster isn't present in the screenshots.
 
