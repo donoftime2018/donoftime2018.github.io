@@ -31,6 +31,9 @@ All items that have "Wooden" in the name posted by johnsmith100 appear
 
 Made some UI/UX changes based on a fellow Software Developer's input. On the profile, the logged in user can look at the 5 most recently liked and posted items. Also, add items form on Dashboard can be closed/opened. Moreover, a navbar is available so a user can visit their profile or logout if they please. The navbar remains in the same place on the page. A user cannot like an item more than once. Moreover, the user who posted an item cannot like that same item. 
 
+**UPDATE as of 11/15/2023**
+
+So, my app is hosted on a Docker container in the dockerFiles branch! The UI is finalized, authentication works, profile and navbar works, users can delete their profiles and thus their likes and items. This is a huge moment for me!
 In my searchParamsQuery branch, the state for holding the search query appears as a query parameter, q, in the URL. Also, the filtering of the items occurs instantly due to removing the formik submit handling. I got this idea from Web Dev Simplified. [Click here to see the video](https://www.youtube.com/watch?v=oZZEI23Ri6E&t=257s). Please note that searchParamsQuery is a few commits behind main, hence why the name of the item poster isn't present in the screenshots.
 
 ![Screenshot 2023-10-07 235124](https://github.com/donoftime2018/donoftime2018.github.io/assets/84360449/c106a330-0eb7-4699-83b9-fb9d5059a855)
